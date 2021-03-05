@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>127.0.0.1/portfolio/work2/</loc>
+  </url>
+  
+  <url>
+    <loc>127.0.0.1/portfolio/work3/</loc>
+  </url>
+  
+  <url>
+    <loc>127.0.0.1/portfolio/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>127.0.0.1/portfolio/work6/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>127.0.0.1/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>127.0.0.1/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>127.0.0.1/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>127.0.0.1/portfolio/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>127.0.0.1/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>127.0.0.1/tags/</loc>
+  </url>
+  
+</urlset>
