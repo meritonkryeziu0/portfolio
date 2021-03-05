@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Meriton&#39;s portfolio</title>
-    <link>127.0.0.1/portfolio/</link>
+    <link>https://meritonkryeziu.netlify.app/portfolio/</link>
     <description>Recent content in Portfolios on Meriton&#39;s portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate>
     
-	<atom:link href="127.0.0.1/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://meritonkryeziu.netlify.app/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blini Plast logo and branding</title>
-      <link>127.0.0.1/portfolio/work2/</link>
+      <link>https://meritonkryeziu.netlify.app/portfolio/work2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/portfolio/work2/</guid>
+      <guid>https://meritonkryeziu.netlify.app/portfolio/work2/</guid>
       <description>&lt;h4 id=&#34;business-card-and-t-shirt-prints&#34;&gt;Business card and T-shirt prints&lt;/h4&gt;
 &lt;p&gt;I designed this logo for my father&amp;rsquo;s business and We are happy with the results.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Blini Plast logo and branding</title>
-      <link>127.0.0.1/portfolio/work3/</link>
+      <link>https://meritonkryeziu.netlify.app/portfolio/work3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/portfolio/work3/</guid>
+      <guid>https://meritonkryeziu.netlify.app/portfolio/work3/</guid>
       <description>&lt;h4 id=&#34;business-card-and-t-shirt-prints&#34;&gt;Business card and T-shirt prints&lt;/h4&gt;
 &lt;p&gt;I designed this logo for my father&amp;rsquo;s business and We are happy with the results.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>JL-Bau logo and branding</title>
-      <link>127.0.0.1/portfolio/work5/</link>
+      <link>https://meritonkryeziu.netlify.app/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>127.0.0.1/portfolio/work5/</guid>
+      <guid>https://meritonkryeziu.netlify.app/portfolio/work5/</guid>
       <description>&lt;h4 id=&#34;logo-concept-with-an-unique-design&#34;&gt;Logo concept with an unique design&lt;/h4&gt;
 &lt;p&gt;Map location in the backside of the business cards&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>JL-Bau logo and branding</title>
-      <link>127.0.0.1/portfolio/work6/</link>
+      <link>https://meritonkryeziu.netlify.app/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>127.0.0.1/portfolio/work6/</guid>
+      <guid>https://meritonkryeziu.netlify.app/portfolio/work6/</guid>
       <description>&lt;h4 id=&#34;logo-concept-with-an-unique-design&#34;&gt;Logo concept with an unique design&lt;/h4&gt;
 &lt;p&gt;Map location in the backside of the business cards&lt;/p&gt;</description>
     </item>
